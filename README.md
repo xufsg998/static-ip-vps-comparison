@@ -1,0 +1,1 @@
+# static-ip-vps-comparison
